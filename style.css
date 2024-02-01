@@ -135,7 +135,6 @@ header {
   }
 
   & p {
-    font-weight: var(--fw-light);
     font-size: var(--fs-50);
   }
 
